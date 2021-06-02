@@ -12,5 +12,6 @@ py 4120-Homework-1.py
 
 7
 
-
+## Line Chart
+![alt text](https://github.com/IamJajuan/Homework-1-Group-Homework/blob/main/KNN%20Figure_.png)
 
